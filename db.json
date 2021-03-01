@@ -49,6 +49,56 @@
       "gambar": "produk6.jpg"
     }
   ],
+  "new-products": [
+    {
+      "id": 7,
+      "kode": "K-01",
+      "nama": "Tas Gunung 2",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "produk7.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-02",
+      "nama": "Coca Cola",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "produk8.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-03",
+      "nama": "Handphone",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk9.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-04",
+      "nama": "Minyak Wangi",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk10.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-05",
+      "nama": "Cocal Cola Dingin",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk11.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Sepatu",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk12.jpg"
+    }
+  ],
   "comments": [
     {
       "id": 1,
