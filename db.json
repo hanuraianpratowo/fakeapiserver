@@ -99,16 +99,114 @@
       "gambar": "produk12.jpg"
     }
   ],
-  "comments": [
+  "products": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "kode": "K-01",
+      "nama": "Tas Gunung",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "produk1.jpg"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "kode": "K-02",
+      "nama": "Headphone Bluetooth",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "produk2.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Lipstik",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk3.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Jam Tangan",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk4.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "kacamata Laut",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk5.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Kacamata Silau",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk6.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-01",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Tas Gunung 2",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "produk7.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-02",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Coca Cola",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "produk8.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-03",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Handphone",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk9.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-04",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Minyak Wangi",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk10.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-05",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Cocal Cola Dingin",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk11.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Sepatu",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk12.jpg"
     }
   ],
   "profile": {
