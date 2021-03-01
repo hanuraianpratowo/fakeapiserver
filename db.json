@@ -1,16 +1,52 @@
 {
-  "posts": [
+  "best-products": [
     {
       "id": 1,
-      "title": "Post 1"
+      "kode": "K-01",
+      "nama": "Tas Gunung",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "produk1.jpg"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "kode": "K-02",
+      "nama": "Headphone Bluetooth",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "produk2.jpg"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "kode": "K-03",
+      "nama": "Lipstik",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk3.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Jam Tangan",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk4.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "kacamata Laut",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk5.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Kacamata Silau",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk6.jpg"
     }
   ],
   "comments": [
