@@ -23,6 +23,30 @@
       "harga": 12000,
       "is_ready": true,
       "gambar": "produk3.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Jam Tangan",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk4.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "kacamata Laut",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk5.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Kacamata Silau",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk6.jpg"
     }
   ],
   "new-products": [
@@ -49,6 +73,30 @@
       "harga": 12000,
       "is_ready": true,
       "gambar": "produk9.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-04",
+      "nama": "Minyak Wangi",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk10.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-05",
+      "nama": "Cocal Cola Dingin",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk11.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "nama": "Sepatu",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk12.jpg"
     }
   ],
   "products": [
@@ -56,7 +104,7 @@
       "id": 1,
       "kode": "K-01",
       "nama": "Tas Gunung",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "harga": 16000,
       "is_ready": true,
       "gambar": "produk1.jpg"
@@ -65,7 +113,7 @@
       "id": 2,
       "kode": "K-02",
       "nama": "Headphone Bluetooth",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "harga": 14000,
       "is_ready": true,
       "gambar": "produk2.jpg"
@@ -73,7 +121,7 @@
     {
       "id": 3,
       "kode": "K-03",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "Lipstik",
       "harga": 12000,
       "is_ready": true,
@@ -82,7 +130,7 @@
     {
       "id": 4,
       "kode": "K-04",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "Jam Tangan",
       "harga": 12000,
       "is_ready": true,
@@ -91,7 +139,7 @@
     {
       "id": 5,
       "kode": "K-05",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "kacamata Laut",
       "harga": 12000,
       "is_ready": true,
@@ -100,7 +148,7 @@
     {
       "id": 6,
       "kode": "K-06",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "Kacamata Silau",
       "harga": 12000,
       "is_ready": true,
@@ -109,7 +157,7 @@
     {
       "id": 7,
       "kode": "K-01",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "Tas Gunung 2",
       "harga": 16000,
       "is_ready": true,
@@ -118,7 +166,7 @@
     {
       "id": 8,
       "kode": "K-02",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "Coca Cola",
       "harga": 14000,
       "is_ready": true,
@@ -127,80 +175,131 @@
     {
       "id": 9,
       "kode": "K-03",
-      "deskripsi": "ini deskripsi untuk sample.",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
       "nama": "Handphone",
       "harga": 12000,
       "is_ready": true,
       "gambar": "produk9.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-04",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Minyak Wangi",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk10.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-05",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Cocal Cola Dingin",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk11.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-06",
+      "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+      "nama": "Sepatu",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "produk12.jpg"
     }
   ],
   "keranjangs": [
     {
       "jumlah_pemesanan": "1",
-      "keterangan": "Ukuran : XL dan Warna : Biru",
+      "keterangan": "dada",
       "products": {
         "id": 2,
         "kode": "K-02",
         "nama": "Headphone Bluetooth",
-        "deskripsi": "Ini hanya sample deskripsi saja.",
+        "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
         "harga": 14000,
         "is_ready": true,
         "gambar": "produk2.jpg"
       },
       "id": 1
+    },
+    {
+      "jumlah_pemesanan": "1",
+      "keterangan": "asada",
+      "products": {
+        "id": 3,
+        "kode": "K-03",
+        "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+        "nama": "Lipstik",
+        "harga": 12000,
+        "is_ready": true,
+        "gambar": "produk3.jpg"
+      },
+      "id": 2
     }
   ],
   "pesanans": [
     {
-      "nama": "Afif",
-      "noMeja": "3",
+      "nama": "Joko",
+      "noHP": "1234",
+      "alamat": "Bandung",
       "keranjangs": [
         {
           "jumlah_pemesanan": "1",
-          "keterangan": "Pedes",
+          "keterangan": "Ukuran : XL dan Warna : Biru",
           "products": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Headphone Bluetooth",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+            "harga": 14000,
             "is_ready": true,
-            "gambar": "sate-ayam.jpg"
+            "gambar": "produk2.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "status": "Pending",
+      "idorder": 2978.2082674979283,
+      "id": 1
+    },
+    {
+      "nama": "a",
+      "noHP": "12",
+      "alamat": "ada",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "keterangan": "dada",
+          "products": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Headphone Bluetooth",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "produk2.jpg"
           },
           "id": 1
         },
         {
           "jumlah_pemesanan": "1",
+          "keterangan": "asada",
           "products": {
-            "id": 2,
-            "kode": "K-02",
-            "nama": "Nasi Goreng Telur",
-            "harga": 14000,
+            "id": 3,
+            "kode": "K-03",
+            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod. Diam maecenas sed enim ut sem viverra aliquet. Nunc vel risus commodo viverra maecenas accumsan lacus. Hendrerit gravida rutrum quisque non tellus orci. Aliquam nulla facilisi cras fermentum. Eget mauris pharetra et ultrices. Lobortis feugiat vivamus at augue eget arcu dictum varius. Ultricies mi eget mauris pharetra et ultrices neque. Tristique risus nec feugiat in fermentum posuere urna nec. Rutrum quisque non tellus orci. Odio tempor orci dapibus ultrices. Nisl nisi scelerisque eu ultrices vitae auctor eu augue.",
+            "nama": "Lipstik",
+            "harga": 12000,
             "is_ready": true,
-            "gambar": "nasi-goreng-telor.jpg"
+            "gambar": "produk3.jpg"
           },
           "id": 2
         }
       ],
-      "id": 1
-    },
-    {
-      "nama": "dad",
-      "noMeja": "dada",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "keterangan": "dadad",
-          "products": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
-            "is_ready": true,
-            "gambar": "sate-ayam.jpg"
-          },
-          "id": 1
-        }
-      ],
+      "status": "Pending",
+      "idorder": 8672.410786216877,
       "id": 2
     }
   ]
